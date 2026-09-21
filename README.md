@@ -3,15 +3,15 @@
 
 ## 學生資訊
 
-學號：(開頭不含s)
+學號：11515122
 
-姓名：(請填寫真實姓名)
+姓名：張博毓
 
-GitHub名稱：(在GitHub的名稱)
+GitHub名稱：zboyu0616-spec
 
-儲存庫名稱(Spec)：WebSpec_(學號不含s)
+儲存庫名稱(Spec)：WebSpec_11515122
 
-儲存庫名稱(Page)：WebPage_(學號不含s)
+儲存庫名稱(Page)：WebPage_11515122
 
 課程名稱：AI 規格驅動網站開發
 
