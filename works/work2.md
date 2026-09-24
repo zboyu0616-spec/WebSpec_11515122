@@ -1,7 +1,7 @@
 # 第2次作業(4%)
-- 學號：(請務必填寫)
-- 姓名：(請務必填寫)
-
+- 學號：11515122
+- 姓名：張博毓
+- 信箱: zboyu0616@gmail.com
 ## 作業目標
 1. VSCode安裝：🔗[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 2. VSCode Extension安裝：
